@@ -5,7 +5,7 @@
  
  🌱 I’m currently learning **C Language**
 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,11 +16,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="30"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="35"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bipin-chourasia&show_icons=true&locale=en&layout=compact" alt="bipin-chourasia" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bipin-chourasia&show_icons=true&locale=en&layout=compact" alt="bipin-chourasia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bipin-chourasia&show_icons=true&locale=en" alt="bipin-chourasia" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bipin-chourasia&show_icons=true&locale=en" alt="bipin-chourasia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin-chourasia&" alt="bipin-chourasia" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin-chourasia&" alt="bipin-chourasia" /></p>
 
