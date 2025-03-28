@@ -11,6 +11,7 @@ A passionate **B.Tech CSE** student with a keen interest in **C, C++, and IoT-ba
 ---
 
 ## 🛠️ Tech Stack & Tools
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🔹 Programming Languages:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
