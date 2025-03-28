@@ -1,26 +1,50 @@
-<h1 align="center">Hi 👋, I'm Bipin Chourasia</h1>
-<h3 align="center">A passionate B.Tech CSE student.</h3>
+# Hi there! 👋 I'm Bipin Chourasia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bipin-chourasia&label=Profile%20views&color=0e75b6&style=flat" alt="bipin-chourasia">
- 
- 🌱 I’m currently learning **C Language**
-<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+## 🚀 About Me
+A passionate **B.Tech CSE** student with a keen interest in **C, C++, and IoT-based projects**. I love working on **AI, IoT, and Smart Systems**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bipin-chourasia-90a695291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bipin-chourasia-90a695291" height="30" width="40" /></a>
-<a href="https://fb.com/bipin.chourasia.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bipin.chourasia.03" height="30" width="40" /></a>
-<a href="https://instagram.com/bipin.chourasia.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bipin.chourasia.3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bipin_chourasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bipin_chourasia" height="30" width="40" /></a>
-</p>
+- 🌱 Currently learning **Advanced C Programming & IoT Development**
+- 🔭 Working on **Smart Irrigation & Pest Detection System**
+- 💬 Ask me about **C, C++, AI, and IoT**
+- 📫 Reach me at: **[LinkedIn](#) | [GitHub](#) | [Instagram](#)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="35"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bipin-chourasia&show_icons=true&locale=en&layout=compact" alt="bipin-chourasia" /></p>
+## 🛠️ Tech Stack & Tools
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bipin-chourasia&show_icons=true&locale=en" alt="bipin-chourasia" /></p>
+### 🔹 Programming Languages:
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin-chourasia&" alt="bipin-chourasia" /></p>
+### 🔹 IoT & Embedded Systems:
+![ESP32](https://img.shields.io/badge/-ESP32-323232?style=flat&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
+### 🔹 Tools & Technologies:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 [Smart Irrigation System](#)
+🔹 IoT-based smart irrigation system with **ESP32-CAM** for real-time monitoring and AI-based decision making.
+
+### 🦠 [Pest & Disease Detection](#)
+🔹 AI-powered **pest and disease detection system** using **image processing and IoT sensors**.
+
+---
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](#)
+
+---
+
+### ⭐ Show some support by starring my repositories!
