@@ -6,7 +6,7 @@ A passionate **B.Tech CSE** student with a keen interest in **C, C++, and IoT-ba
 - 🌱 Currently learning **Advanced C Programming & IoT Development**
 - 🔭 Working on **Smart Irrigation & Pest Detection System**
 - 💬 Ask me about **C, C++, AI, and IoT**
-- 📫 Reach me at: **[LinkedIn](#) | [GitHub](#) | [Instagram](#)**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/bipin-chourasia-90a695291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Byf%2FWA%2FeaQSydvM0fDvfX9Q%3D%3D) | [GitHub](#) | [Instagram](#)**
 
 ---
 
